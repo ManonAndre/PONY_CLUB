@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img width="500" style="background:white" alt="GitHub Logotype" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png">
 
 
@@ -188,3 +189,7 @@ Tutoriel de démarrage
 https://guides.github.com/activities/hello-world/ 
 
 
+=======
+# Pony_Club
+TP-Git-POE
+>>>>>>> aa08257d4f0f6dc82b078a100f7949d77341d536
